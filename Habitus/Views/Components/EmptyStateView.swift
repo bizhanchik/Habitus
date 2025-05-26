@@ -48,5 +48,3 @@ struct EmptyStateView: View {
     )
 }
 
-
-
